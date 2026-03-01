@@ -82,4 +82,3 @@
 
 <h2 align="justify">AUTORES</h2>
 <p>José Arcangelo de Souza Garlet</p>
-<p>Lucas Descovi</p>
